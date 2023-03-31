@@ -1,0 +1,17 @@
+.result {
+  height: 3rem;
+  color:white;
+  font-size:2rem;
+
+}
+
+.box {
+  border: 1px solid white;
+  font-size: 2rem;
+  text-align: center;
+  background-color: gray;
+  color: white;
+}
+.container{
+  max-width: 300px;
+}
